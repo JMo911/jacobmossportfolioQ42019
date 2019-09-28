@@ -1,0 +1,9 @@
+{
+  "name": "jacobmossportfolioQ42019",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "sequelize": "^5.19.1"
+  }
+}
